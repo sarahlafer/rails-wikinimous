@@ -1,0 +1,13 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.articles {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  text-align: center;
+  padding: 50px;
+  line-height: 50px;
+}
